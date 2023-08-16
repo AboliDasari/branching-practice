@@ -1,1 +1,16 @@
  This is my 1st line
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+ my manager work
+=======
+ This is my 2nd line
+>>>>>>> Stashed changes
+
+
+
+
+
+this is my 2nd manager work
+=======
+ This is my 2nd line
+>>>>>>> Stashed changes
